@@ -17,16 +17,16 @@ else if(greg < 0)
     document.writeln(greg + "negativo");
 }
 
-if(dipre>0 && estevez>0)
+if(arber>0 && greg>0)
 {
   document.writeln("dos de dos positivos");
 }
-else if(dipre >0 && estevez<0)
+else if(arber >0 && greg<0)
 {
     document.writeln("uno de dos positivos");
 }
 
-else if(dipre<0 && estevez<0)
+else if(arber<0 && greg<0)
 {
   document.writeln("dos de dos negativos");
 }
